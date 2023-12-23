@@ -1,0 +1,5 @@
+type UserDto{
+    name: String
+    email: String
+    date_naissance: String
+}

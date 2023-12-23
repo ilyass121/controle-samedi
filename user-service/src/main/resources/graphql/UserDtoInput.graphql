@@ -1,0 +1,5 @@
+input UserDtoInput{
+    name: String
+    email: String
+    date_naissance: String
+}
